@@ -1,3 +1,4 @@
+package java;
 public class BinarySearch {
     public static void main(String[] args) {
         System.out.println(Solution.search(new int[] {1, 2, 3, 4, 5}, 3));
